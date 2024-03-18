@@ -188,7 +188,7 @@ span {
     align-items:top;
     gap:2rem;
     background: var(--second-bg-color);
-    min-height: 20vh;
+    min-height: 40vh;
 }
 
 .heading {
@@ -279,9 +279,9 @@ span {
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
-    gap: 5rem;
+    gap: 10rem;
     width: 80%;
-    margin-left: 90px;
+    margin-left: 50px;
 }
 
 .portfolio-container .portfolio-box {
