@@ -457,6 +457,12 @@ margin: .7rem 0;
         color: var(--text-color);
     }
 
+.header.sticky #menu-icon {
+    color: var(--text-color);
+    opacity: .9;
+}
+
+
     .navbar {
         position: absolute;
         top: 100%;
