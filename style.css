@@ -455,7 +455,7 @@ margin: .7rem 0;
     #menu-icon {
         display: inline-block;
         color: var(--text-color);
-        padding-right: 30px;
+        padding-right: 15px;
     }
 
 .header.sticky #menu-icon {
